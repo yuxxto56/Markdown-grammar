@@ -82,3 +82,17 @@ _ _ _
 使用 **\`\`** 符号标明：
 
 `<a href="test.html">test</a>`
+* 多行代码框
+
+使用 **\`\`\`\`\`\`** 符号标明：
+``` main 函数
+ function main(int $x,int $y){
+     $z = $x + $y;
+     return $z;
+ }
+ //执行
+ main(2,3);
+
+```
+
+
