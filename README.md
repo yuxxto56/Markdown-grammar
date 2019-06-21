@@ -63,6 +63,11 @@ _ _ _
 使用[google翻译]中英文
 
 ## 图片写法
-`百度logo`
+
+
+```
+行内式写法：百度LOGO
+```
 ![baidu_logo](https://www.baidu.com/img/bd_logo1.png)
+
 
