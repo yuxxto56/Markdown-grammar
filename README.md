@@ -64,7 +64,6 @@ _ _ _
 
 ## 图片写法
 
-
 ```
 行内式写法：百度LOGO
 ```
@@ -75,3 +74,10 @@ _ _ _
 ```
 [tmall_logo]:https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3289498248,2263951874&fm=27&gp=0.jpg
 ![tmall_logo]
+
+## 代码框写法
+
+* 单行代码框
+
+使用``符合标明：
+
