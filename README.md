@@ -9,4 +9,5 @@ main();
 ### 图片
 [baidu]:https://www.baidu.com/img/baidu_jgylogo3.gif
 
-1. 图片请参考![baidu]
+1. 图片请参考：![baidu]
+1. 图片请参考：![baidu]
