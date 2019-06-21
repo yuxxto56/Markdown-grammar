@@ -59,7 +59,6 @@ _ _ _
 参数式写法：
 
 [goole]: http://www.goole.cn 
-
 使用[goole]查阅资料
 
 ## 图片写法
