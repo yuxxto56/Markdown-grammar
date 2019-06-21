@@ -60,7 +60,7 @@ _ _ _
 
 [google翻译]:https://translate.google.cn/
 
-使用[google翻译]查阅资料
+使用[google翻译]翻译中英文
 
 ## 图片写法
 
