@@ -52,12 +52,16 @@ _ _ _
 ```
 ## 超链接写法
 
-1. 行内式写法
-* [百度一下](https://www.baidu.com/)查阅资料
----
-[baidu]: https://www.baidu.com "查阅资料"
----
-[baidu]
+行内式写法：
+
+使用[baidu](https://www.baidu.com/)查阅资料
+
+参数式写法：
+
+[goole]: http://www.goole.cn 
+
+使用[goole]查阅资料
+
 ## 图片写法
 
 
