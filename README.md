@@ -55,12 +55,9 @@ _ _ _
 1. 行内式写法
 * [百度一下](https://www.baidu.com/)查阅资料
 2. 参数式写法
-  
-
-[1]: http://google.com/        "Google" 
-[2]: http://search.yahoo.com/  "Yahoo Search" 
-[3]: http://search.msn.com/    "MSN Search"
-I get 10 times more traffic from [Google][1] than from [Yahoo][2] or [MSN][3].
+* [baidu]: https://www.baidu.com "查阅资料"
+---
+ [baidu]
 ## 图片写法
 
 
