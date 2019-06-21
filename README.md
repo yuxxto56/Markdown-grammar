@@ -73,5 +73,5 @@ _ _ _
 ```
 参数式写法：天猫LOGO
 ```
-![tmall_logo]:https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3289498248,2263951874&fm=27&gp=0.jpg
+[tmall_logo]:https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3289498248,2263951874&fm=27&gp=0.jpg
 ![tmall_logo]
