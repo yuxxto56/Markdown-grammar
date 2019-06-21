@@ -54,10 +54,10 @@ _ _ _
 
 1. 行内式写法
 * [百度一下](https://www.baidu.com/)查阅资料
-2. 参数式写法
-* [baidu]: https://www.baidu.com "查阅资料"
 ---
- [baidu]
+[baidu]: https://www.baidu.com "查阅资料"
+---
+[baidu]
 ## 图片写法
 
 
