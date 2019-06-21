@@ -55,8 +55,11 @@ _ _ _
 行内式写法：
 
 使用[baidu](https://www.baidu.com/)查阅资料
+
 参数式写法：
-[google翻译]: https://translate.google.cn/
+
+[google翻译]:https://translate.google.cn/
+
 使用[google翻译]查阅资料
 
 ## 图片写法
